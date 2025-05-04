@@ -1,4 +1,3 @@
-````markdown
 # Itaú Open Finance Credit Card Transactions Fetcher
 
 This script connects to Itaú's Open Finance API and retrieves **credit card transactions for the past 360 days** using the `credit-cards-accounts` scope. It uses **OAuth2 Client Credentials**, **Mutual TLS**, and displays the results in a beautiful tabular format using `tabulate`.
@@ -152,15 +151,3 @@ ACCESS_TOKEN_URL = "https://sts.sandbox.itau.com.br/api/token"
 ## 📜 License
 
 MIT License.
-
----
-
-## 📞 Need Help?
-
-* [Open Finance Brasil Official Site](https://www.bcb.gov.br/en/financialstability/openfinance)
-* [Itaú Developer Portal](https://devportal.itau.com.br/)
-* [OpenID Foundation Brazil](https://www.openid.net.br/)
-
-```
-NvimTree_1 open-finance-itau
-# open-finance-itau
